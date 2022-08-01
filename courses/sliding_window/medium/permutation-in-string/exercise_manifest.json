@@ -1,0 +1,14 @@
+{
+  "id": "trane::leetcode::sliding_window::medium::permutation-in-string",
+  "lesson_id": "trane::leetcode::sliding_window::medium",
+  "course_id": "trane::leetcode::sliding_window",
+  "name": "Permutation in String",
+  "description": null,
+  "exercise_type": "Procedural",
+  "exercise_asset": {
+    "FlashcardAsset": {
+      "front_path": "front.md",
+      "back_path": "back.md"
+    }
+  }
+}

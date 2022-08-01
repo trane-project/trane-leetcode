@@ -1,0 +1,14 @@
+{
+  "id": "trane::leetcode::graphs::medium::walls-and-gates",
+  "lesson_id": "trane::leetcode::graphs::medium",
+  "course_id": "trane::leetcode::graphs",
+  "name": "Walls and Gates",
+  "description": null,
+  "exercise_type": "Procedural",
+  "exercise_asset": {
+    "FlashcardAsset": {
+      "front_path": "front.md",
+      "back_path": "back.md"
+    }
+  }
+}

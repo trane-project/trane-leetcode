@@ -1,0 +1,12 @@
+{
+  "id": "trane::leetcode::stack::hard",
+  "dependencies": [
+    "trane::leetcode::stack::medium"
+  ],
+  "course_id": "trane::leetcode::stack",
+  "name": "Stack - hard",
+  "description": null,
+  "metadata": null,
+  "lesson_material": null,
+  "lesson_instructions": null
+}

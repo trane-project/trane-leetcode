@@ -1,0 +1,14 @@
+{
+  "id": "trane::leetcode::sliding_window::easy::best-time-to-buy-and-sell-stock",
+  "lesson_id": "trane::leetcode::sliding_window::easy",
+  "course_id": "trane::leetcode::sliding_window",
+  "name": "Best Time to Buy and Sell Stock",
+  "description": null,
+  "exercise_type": "Procedural",
+  "exercise_asset": {
+    "FlashcardAsset": {
+      "front_path": "front.md",
+      "back_path": "back.md"
+    }
+  }
+}

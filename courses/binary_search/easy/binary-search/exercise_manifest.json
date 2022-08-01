@@ -1,0 +1,14 @@
+{
+  "id": "trane::leetcode::binary_search::easy::binary-search",
+  "lesson_id": "trane::leetcode::binary_search::easy",
+  "course_id": "trane::leetcode::binary_search",
+  "name": "Binary Search",
+  "description": null,
+  "exercise_type": "Procedural",
+  "exercise_asset": {
+    "FlashcardAsset": {
+      "front_path": "front.md",
+      "back_path": "back.md"
+    }
+  }
+}

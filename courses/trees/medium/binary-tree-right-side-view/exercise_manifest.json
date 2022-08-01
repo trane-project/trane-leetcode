@@ -1,0 +1,14 @@
+{
+  "id": "trane::leetcode::trees::medium::binary-tree-right-side-view",
+  "lesson_id": "trane::leetcode::trees::medium",
+  "course_id": "trane::leetcode::trees",
+  "name": "Binary Tree Right Side View",
+  "description": null,
+  "exercise_type": "Procedural",
+  "exercise_asset": {
+    "FlashcardAsset": {
+      "front_path": "front.md",
+      "back_path": "back.md"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "trane::leetcode::linked_list::easy::reverse-linked-list",
+  "lesson_id": "trane::leetcode::linked_list::easy",
+  "course_id": "trane::leetcode::linked_list",
+  "name": "Reverse Linked List",
+  "description": null,
+  "exercise_type": "Procedural",
+  "exercise_asset": {
+    "FlashcardAsset": {
+      "front_path": "front.md",
+      "back_path": "back.md"
+    }
+  }
+}

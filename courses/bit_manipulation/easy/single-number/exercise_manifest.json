@@ -1,0 +1,14 @@
+{
+  "id": "trane::leetcode::bit_manipulation::easy::single-number",
+  "lesson_id": "trane::leetcode::bit_manipulation::easy",
+  "course_id": "trane::leetcode::bit_manipulation",
+  "name": "Single Number",
+  "description": null,
+  "exercise_type": "Procedural",
+  "exercise_asset": {
+    "FlashcardAsset": {
+      "front_path": "front.md",
+      "back_path": "back.md"
+    }
+  }
+}

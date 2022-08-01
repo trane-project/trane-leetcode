@@ -1,0 +1,14 @@
+{
+  "id": "trane::leetcode::trees::medium::kth-smallest-element-in-a-bst",
+  "lesson_id": "trane::leetcode::trees::medium",
+  "course_id": "trane::leetcode::trees",
+  "name": "Kth Smallest Element in a BST",
+  "description": null,
+  "exercise_type": "Procedural",
+  "exercise_asset": {
+    "FlashcardAsset": {
+      "front_path": "front.md",
+      "back_path": "back.md"
+    }
+  }
+}

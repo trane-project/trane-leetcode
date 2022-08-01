@@ -1,0 +1,16 @@
+{
+  "id": "trane::leetcode::greedy",
+  "name": "Greedy",
+  "dependencies": [],
+  "description": "Solve Leetcode problems related to the topic Greedy",
+  "authors": [
+    "The Trane Project"
+  ],
+  "metadata": {
+    "leetcode_topic": [
+      "Greedy"
+    ]
+  },
+  "course_material": null,
+  "course_instructions": null
+}

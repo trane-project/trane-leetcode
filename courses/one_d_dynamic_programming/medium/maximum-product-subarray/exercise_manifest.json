@@ -1,0 +1,14 @@
+{
+  "id": "trane::leetcode::one_d_dynamic_programming::medium::maximum-product-subarray",
+  "lesson_id": "trane::leetcode::one_d_dynamic_programming::medium",
+  "course_id": "trane::leetcode::one_d_dynamic_programming",
+  "name": "Maximum Product Subarray",
+  "description": null,
+  "exercise_type": "Procedural",
+  "exercise_asset": {
+    "FlashcardAsset": {
+      "front_path": "front.md",
+      "back_path": "back.md"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "trane::leetcode::binary_search::medium::koko-eating-bananas",
+  "lesson_id": "trane::leetcode::binary_search::medium",
+  "course_id": "trane::leetcode::binary_search",
+  "name": "Koko Eating Bananas",
+  "description": null,
+  "exercise_type": "Procedural",
+  "exercise_asset": {
+    "FlashcardAsset": {
+      "front_path": "front.md",
+      "back_path": "back.md"
+    }
+  }
+}

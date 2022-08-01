@@ -1,0 +1,14 @@
+{
+  "id": "trane::leetcode::linked_list::medium::find-the-duplicate-number",
+  "lesson_id": "trane::leetcode::linked_list::medium",
+  "course_id": "trane::leetcode::linked_list",
+  "name": "Find the Duplicate Number",
+  "description": null,
+  "exercise_type": "Procedural",
+  "exercise_asset": {
+    "FlashcardAsset": {
+      "front_path": "front.md",
+      "back_path": "back.md"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "trane::leetcode::advanced_graphs::medium::cheapest-flight-within-k-stops",
+  "lesson_id": "trane::leetcode::advanced_graphs::medium",
+  "course_id": "trane::leetcode::advanced_graphs",
+  "name": "Cheapest Flight Within K Stops",
+  "description": null,
+  "exercise_type": "Procedural",
+  "exercise_asset": {
+    "FlashcardAsset": {
+      "front_path": "front.md",
+      "back_path": "back.md"
+    }
+  }
+}

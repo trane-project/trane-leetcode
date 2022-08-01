@@ -1,0 +1,14 @@
+{
+  "id": "trane::leetcode::intervals::medium::non-overlapping-intervals",
+  "lesson_id": "trane::leetcode::intervals::medium",
+  "course_id": "trane::leetcode::intervals",
+  "name": "Non-overlapping Intervals",
+  "description": null,
+  "exercise_type": "Procedural",
+  "exercise_asset": {
+    "FlashcardAsset": {
+      "front_path": "front.md",
+      "back_path": "back.md"
+    }
+  }
+}

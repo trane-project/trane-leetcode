@@ -1,0 +1,16 @@
+{
+  "id": "trane::leetcode::tries",
+  "name": "Tries",
+  "dependencies": [],
+  "description": "Solve Leetcode problems related to the topic Tries",
+  "authors": [
+    "The Trane Project"
+  ],
+  "metadata": {
+    "leetcode_topic": [
+      "Tries"
+    ]
+  },
+  "course_material": null,
+  "course_instructions": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": "trane::leetcode::heap_priority_queue::medium::kth-largest-element-in-an-array",
+  "lesson_id": "trane::leetcode::heap_priority_queue::medium",
+  "course_id": "trane::leetcode::heap_priority_queue",
+  "name": "Kth Largest Element in an Array",
+  "description": null,
+  "exercise_type": "Procedural",
+  "exercise_asset": {
+    "FlashcardAsset": {
+      "front_path": "front.md",
+      "back_path": "back.md"
+    }
+  }
+}

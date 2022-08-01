@@ -1,0 +1,14 @@
+{
+  "id": "trane::leetcode::heap_priority_queue::medium::task-scheduler",
+  "lesson_id": "trane::leetcode::heap_priority_queue::medium",
+  "course_id": "trane::leetcode::heap_priority_queue",
+  "name": "Task Scheduler",
+  "description": null,
+  "exercise_type": "Procedural",
+  "exercise_asset": {
+    "FlashcardAsset": {
+      "front_path": "front.md",
+      "back_path": "back.md"
+    }
+  }
+}

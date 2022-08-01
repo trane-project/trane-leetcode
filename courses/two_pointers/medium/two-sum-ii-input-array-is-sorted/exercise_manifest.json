@@ -1,0 +1,14 @@
+{
+  "id": "trane::leetcode::two_pointers::medium::two-sum-ii-input-array-is-sorted",
+  "lesson_id": "trane::leetcode::two_pointers::medium",
+  "course_id": "trane::leetcode::two_pointers",
+  "name": "Two Sum II",
+  "description": null,
+  "exercise_type": "Procedural",
+  "exercise_asset": {
+    "FlashcardAsset": {
+      "front_path": "front.md",
+      "back_path": "back.md"
+    }
+  }
+}

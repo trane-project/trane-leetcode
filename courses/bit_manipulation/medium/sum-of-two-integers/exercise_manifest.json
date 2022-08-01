@@ -1,0 +1,14 @@
+{
+  "id": "trane::leetcode::bit_manipulation::medium::sum-of-two-integers",
+  "lesson_id": "trane::leetcode::bit_manipulation::medium",
+  "course_id": "trane::leetcode::bit_manipulation",
+  "name": "Sum of Two Integers",
+  "description": null,
+  "exercise_type": "Procedural",
+  "exercise_asset": {
+    "FlashcardAsset": {
+      "front_path": "front.md",
+      "back_path": "back.md"
+    }
+  }
+}

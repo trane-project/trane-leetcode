@@ -1,0 +1,14 @@
+{
+  "id": "trane::leetcode::sliding_window::hard::sliding-window-maximum",
+  "lesson_id": "trane::leetcode::sliding_window::hard",
+  "course_id": "trane::leetcode::sliding_window",
+  "name": "Sliding Window Maximum",
+  "description": null,
+  "exercise_type": "Procedural",
+  "exercise_asset": {
+    "FlashcardAsset": {
+      "front_path": "front.md",
+      "back_path": "back.md"
+    }
+  }
+}

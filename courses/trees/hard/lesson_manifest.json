@@ -1,0 +1,12 @@
+{
+  "id": "trane::leetcode::trees::hard",
+  "dependencies": [
+    "trane::leetcode::trees::medium"
+  ],
+  "course_id": "trane::leetcode::trees",
+  "name": "Trees - hard",
+  "description": null,
+  "metadata": null,
+  "lesson_material": null,
+  "lesson_instructions": null
+}

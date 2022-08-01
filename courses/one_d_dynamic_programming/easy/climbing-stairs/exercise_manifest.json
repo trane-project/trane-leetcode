@@ -1,0 +1,14 @@
+{
+  "id": "trane::leetcode::one_d_dynamic_programming::easy::climbing-stairs",
+  "lesson_id": "trane::leetcode::one_d_dynamic_programming::easy",
+  "course_id": "trane::leetcode::one_d_dynamic_programming",
+  "name": "Climbing Stairs",
+  "description": null,
+  "exercise_type": "Procedural",
+  "exercise_asset": {
+    "FlashcardAsset": {
+      "front_path": "front.md",
+      "back_path": "back.md"
+    }
+  }
+}

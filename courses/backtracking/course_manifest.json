@@ -1,0 +1,16 @@
+{
+  "id": "trane::leetcode::backtracking",
+  "name": "Backtracking",
+  "dependencies": [],
+  "description": "Solve Leetcode problems related to the topic Backtracking",
+  "authors": [
+    "The Trane Project"
+  ],
+  "metadata": {
+    "leetcode_topic": [
+      "Backtracking"
+    ]
+  },
+  "course_material": null,
+  "course_instructions": null
+}

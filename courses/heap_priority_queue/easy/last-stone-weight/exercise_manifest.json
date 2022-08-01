@@ -1,0 +1,14 @@
+{
+  "id": "trane::leetcode::heap_priority_queue::easy::last-stone-weight",
+  "lesson_id": "trane::leetcode::heap_priority_queue::easy",
+  "course_id": "trane::leetcode::heap_priority_queue",
+  "name": "Last Stone Weight",
+  "description": null,
+  "exercise_type": "Procedural",
+  "exercise_asset": {
+    "FlashcardAsset": {
+      "front_path": "front.md",
+      "back_path": "back.md"
+    }
+  }
+}

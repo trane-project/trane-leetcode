@@ -1,0 +1,12 @@
+{
+  "id": "trane::leetcode::two_pointers::hard",
+  "dependencies": [
+    "trane::leetcode::two_pointers::medium"
+  ],
+  "course_id": "trane::leetcode::two_pointers",
+  "name": "Two Pointers - hard",
+  "description": null,
+  "metadata": null,
+  "lesson_material": null,
+  "lesson_instructions": null
+}

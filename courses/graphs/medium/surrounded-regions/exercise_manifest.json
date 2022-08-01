@@ -1,0 +1,14 @@
+{
+  "id": "trane::leetcode::graphs::medium::surrounded-regions",
+  "lesson_id": "trane::leetcode::graphs::medium",
+  "course_id": "trane::leetcode::graphs",
+  "name": "Surrounded Regions",
+  "description": null,
+  "exercise_type": "Procedural",
+  "exercise_asset": {
+    "FlashcardAsset": {
+      "front_path": "front.md",
+      "back_path": "back.md"
+    }
+  }
+}

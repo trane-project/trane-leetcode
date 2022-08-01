@@ -1,0 +1,16 @@
+{
+  "id": "trane::leetcode::sliding_window",
+  "name": "Sliding Window",
+  "dependencies": [],
+  "description": "Solve Leetcode problems related to the topic Sliding Window",
+  "authors": [
+    "The Trane Project"
+  ],
+  "metadata": {
+    "leetcode_topic": [
+      "Sliding Window"
+    ]
+  },
+  "course_material": null,
+  "course_instructions": null
+}

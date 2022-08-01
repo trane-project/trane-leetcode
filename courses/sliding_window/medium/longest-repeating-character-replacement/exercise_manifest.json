@@ -1,0 +1,14 @@
+{
+  "id": "trane::leetcode::sliding_window::medium::longest-repeating-character-replacement",
+  "lesson_id": "trane::leetcode::sliding_window::medium",
+  "course_id": "trane::leetcode::sliding_window",
+  "name": "Longest Repeating Character Replacement",
+  "description": null,
+  "exercise_type": "Procedural",
+  "exercise_asset": {
+    "FlashcardAsset": {
+      "front_path": "front.md",
+      "back_path": "back.md"
+    }
+  }
+}

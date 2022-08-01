@@ -1,0 +1,14 @@
+{
+  "id": "trane::leetcode::math_and_geometry::easy::plus-one",
+  "lesson_id": "trane::leetcode::math_and_geometry::easy",
+  "course_id": "trane::leetcode::math_and_geometry",
+  "name": "Plus One",
+  "description": null,
+  "exercise_type": "Procedural",
+  "exercise_asset": {
+    "FlashcardAsset": {
+      "front_path": "front.md",
+      "back_path": "back.md"
+    }
+  }
+}

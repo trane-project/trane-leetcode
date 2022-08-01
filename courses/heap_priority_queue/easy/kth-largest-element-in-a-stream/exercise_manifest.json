@@ -1,0 +1,14 @@
+{
+  "id": "trane::leetcode::heap_priority_queue::easy::kth-largest-element-in-a-stream",
+  "lesson_id": "trane::leetcode::heap_priority_queue::easy",
+  "course_id": "trane::leetcode::heap_priority_queue",
+  "name": "Kth Largest Element in a Stream",
+  "description": null,
+  "exercise_type": "Procedural",
+  "exercise_asset": {
+    "FlashcardAsset": {
+      "front_path": "front.md",
+      "back_path": "back.md"
+    }
+  }
+}

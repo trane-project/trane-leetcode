@@ -1,0 +1,14 @@
+{
+  "id": "trane::leetcode::one_d_dynamic_programming::medium::longest-increasing-subsequence",
+  "lesson_id": "trane::leetcode::one_d_dynamic_programming::medium",
+  "course_id": "trane::leetcode::one_d_dynamic_programming",
+  "name": "Longest Increasing Subsequence",
+  "description": null,
+  "exercise_type": "Procedural",
+  "exercise_asset": {
+    "FlashcardAsset": {
+      "front_path": "front.md",
+      "back_path": "back.md"
+    }
+  }
+}

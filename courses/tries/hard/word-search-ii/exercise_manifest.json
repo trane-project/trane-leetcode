@@ -1,0 +1,14 @@
+{
+  "id": "trane::leetcode::tries::hard::word-search-ii",
+  "lesson_id": "trane::leetcode::tries::hard",
+  "course_id": "trane::leetcode::tries",
+  "name": "Word Search II",
+  "description": null,
+  "exercise_type": "Procedural",
+  "exercise_asset": {
+    "FlashcardAsset": {
+      "front_path": "front.md",
+      "back_path": "back.md"
+    }
+  }
+}

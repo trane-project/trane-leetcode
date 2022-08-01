@@ -1,0 +1,14 @@
+{
+  "id": "trane::leetcode::advanced_graphs::hard::alien-dictionary",
+  "lesson_id": "trane::leetcode::advanced_graphs::hard",
+  "course_id": "trane::leetcode::advanced_graphs",
+  "name": "Alien Dictionary",
+  "description": null,
+  "exercise_type": "Procedural",
+  "exercise_asset": {
+    "FlashcardAsset": {
+      "front_path": "front.md",
+      "back_path": "back.md"
+    }
+  }
+}

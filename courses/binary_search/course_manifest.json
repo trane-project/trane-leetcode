@@ -1,0 +1,16 @@
+{
+  "id": "trane::leetcode::binary_search",
+  "name": "Binary Search",
+  "dependencies": [],
+  "description": "Solve Leetcode problems related to the topic Binary Search",
+  "authors": [
+    "The Trane Project"
+  ],
+  "metadata": {
+    "leetcode_topic": [
+      "Binary Search"
+    ]
+  },
+  "course_material": null,
+  "course_instructions": null
+}

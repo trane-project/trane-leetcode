@@ -1,0 +1,14 @@
+{
+  "id": "trane::leetcode::greedy::medium::valid-parentheses-string",
+  "lesson_id": "trane::leetcode::greedy::medium",
+  "course_id": "trane::leetcode::greedy",
+  "name": "Valid Parentheses String",
+  "description": null,
+  "exercise_type": "Procedural",
+  "exercise_asset": {
+    "FlashcardAsset": {
+      "front_path": "front.md",
+      "back_path": "back.md"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "trane::leetcode::two_pointers",
+  "name": "Two Pointers",
+  "dependencies": [],
+  "description": "Solve Leetcode problems related to the topic Two Pointers",
+  "authors": [
+    "The Trane Project"
+  ],
+  "metadata": {
+    "leetcode_topic": [
+      "Two Pointers"
+    ]
+  },
+  "course_material": null,
+  "course_instructions": null
+}

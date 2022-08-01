@@ -1,0 +1,14 @@
+{
+  "id": "trane::leetcode::trees::medium::validate-binary-search-tree",
+  "lesson_id": "trane::leetcode::trees::medium",
+  "course_id": "trane::leetcode::trees",
+  "name": "Validate Binary Search Tree",
+  "description": null,
+  "exercise_type": "Procedural",
+  "exercise_asset": {
+    "FlashcardAsset": {
+      "front_path": "front.md",
+      "back_path": "back.md"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "trane::leetcode::backtracking::hard",
+  "dependencies": [
+    "trane::leetcode::backtracking::medium"
+  ],
+  "course_id": "trane::leetcode::backtracking",
+  "name": "Backtracking - hard",
+  "description": null,
+  "metadata": null,
+  "lesson_material": null,
+  "lesson_instructions": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": "trane::leetcode::linked_list::medium::copy-list-with-random-pointer",
+  "lesson_id": "trane::leetcode::linked_list::medium",
+  "course_id": "trane::leetcode::linked_list",
+  "name": "Copy List with Random Pointer",
+  "description": null,
+  "exercise_type": "Procedural",
+  "exercise_asset": {
+    "FlashcardAsset": {
+      "front_path": "front.md",
+      "back_path": "back.md"
+    }
+  }
+}

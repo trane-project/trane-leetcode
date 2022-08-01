@@ -1,0 +1,14 @@
+{
+  "id": "trane::leetcode::trees::hard::serialize-and-deserialize-binary-tree",
+  "lesson_id": "trane::leetcode::trees::hard",
+  "course_id": "trane::leetcode::trees",
+  "name": "Serialize and Deserialize Binary Tree",
+  "description": null,
+  "exercise_type": "Procedural",
+  "exercise_asset": {
+    "FlashcardAsset": {
+      "front_path": "front.md",
+      "back_path": "back.md"
+    }
+  }
+}

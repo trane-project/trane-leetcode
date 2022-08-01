@@ -1,0 +1,16 @@
+{
+  "id": "trane::leetcode::stack",
+  "name": "Stack",
+  "dependencies": [],
+  "description": "Solve Leetcode problems related to the topic Stack",
+  "authors": [
+    "The Trane Project"
+  ],
+  "metadata": {
+    "leetcode_topic": [
+      "Stack"
+    ]
+  },
+  "course_material": null,
+  "course_instructions": null
+}

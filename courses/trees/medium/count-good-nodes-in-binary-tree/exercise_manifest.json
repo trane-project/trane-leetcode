@@ -1,0 +1,14 @@
+{
+  "id": "trane::leetcode::trees::medium::count-good-nodes-in-binary-tree",
+  "lesson_id": "trane::leetcode::trees::medium",
+  "course_id": "trane::leetcode::trees",
+  "name": "Count Good Nodes in Binary Tree",
+  "description": null,
+  "exercise_type": "Procedural",
+  "exercise_asset": {
+    "FlashcardAsset": {
+      "front_path": "front.md",
+      "back_path": "back.md"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "trane::leetcode::backtracking::hard::n-queens",
+  "lesson_id": "trane::leetcode::backtracking::hard",
+  "course_id": "trane::leetcode::backtracking",
+  "name": "N-Queens",
+  "description": null,
+  "exercise_type": "Procedural",
+  "exercise_asset": {
+    "FlashcardAsset": {
+      "front_path": "front.md",
+      "back_path": "back.md"
+    }
+  }
+}

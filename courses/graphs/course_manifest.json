@@ -1,0 +1,16 @@
+{
+  "id": "trane::leetcode::graphs",
+  "name": "Graphs",
+  "dependencies": [],
+  "description": "Solve Leetcode problems related to the topic Graphs",
+  "authors": [
+    "The Trane Project"
+  ],
+  "metadata": {
+    "leetcode_topic": [
+      "Graphs"
+    ]
+  },
+  "course_material": null,
+  "course_instructions": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": "trane::leetcode::bit_manipulation::easy::number-of-1-bits",
+  "lesson_id": "trane::leetcode::bit_manipulation::easy",
+  "course_id": "trane::leetcode::bit_manipulation",
+  "name": "Number of 1 Bits",
+  "description": null,
+  "exercise_type": "Procedural",
+  "exercise_asset": {
+    "FlashcardAsset": {
+      "front_path": "front.md",
+      "back_path": "back.md"
+    }
+  }
+}

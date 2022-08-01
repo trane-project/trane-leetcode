@@ -1,0 +1,14 @@
+{
+  "id": "trane::leetcode::trees::easy::same-tree",
+  "lesson_id": "trane::leetcode::trees::easy",
+  "course_id": "trane::leetcode::trees",
+  "name": "Same Tree",
+  "description": null,
+  "exercise_type": "Procedural",
+  "exercise_asset": {
+    "FlashcardAsset": {
+      "front_path": "front.md",
+      "back_path": "back.md"
+    }
+  }
+}

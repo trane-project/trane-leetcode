@@ -1,0 +1,16 @@
+{
+  "id": "trane::leetcode::math_and_geometry",
+  "name": "Math & Geometry",
+  "dependencies": [],
+  "description": "Solve Leetcode problems related to the topic Math & Geometry",
+  "authors": [
+    "The Trane Project"
+  ],
+  "metadata": {
+    "leetcode_topic": [
+      "Math & Geometry"
+    ]
+  },
+  "course_material": null,
+  "course_instructions": null
+}

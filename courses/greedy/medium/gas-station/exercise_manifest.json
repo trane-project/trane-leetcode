@@ -1,0 +1,14 @@
+{
+  "id": "trane::leetcode::greedy::medium::gas-station",
+  "lesson_id": "trane::leetcode::greedy::medium",
+  "course_id": "trane::leetcode::greedy",
+  "name": "Gas Station",
+  "description": null,
+  "exercise_type": "Procedural",
+  "exercise_asset": {
+    "FlashcardAsset": {
+      "front_path": "front.md",
+      "back_path": "back.md"
+    }
+  }
+}

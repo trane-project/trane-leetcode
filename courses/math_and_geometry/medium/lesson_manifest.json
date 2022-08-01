@@ -1,0 +1,12 @@
+{
+  "id": "trane::leetcode::math_and_geometry::medium",
+  "dependencies": [
+    "trane::leetcode::math_and_geometry::easy"
+  ],
+  "course_id": "trane::leetcode::math_and_geometry",
+  "name": "Math & Geometry - medium",
+  "description": null,
+  "metadata": null,
+  "lesson_material": null,
+  "lesson_instructions": null
+}

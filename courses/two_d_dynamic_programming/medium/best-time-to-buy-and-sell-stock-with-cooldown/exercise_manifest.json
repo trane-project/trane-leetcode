@@ -1,0 +1,14 @@
+{
+  "id": "trane::leetcode::two_d_dynamic_programming::medium::best-time-to-buy-and-sell-stock-with-cooldown",
+  "lesson_id": "trane::leetcode::two_d_dynamic_programming::medium",
+  "course_id": "trane::leetcode::two_d_dynamic_programming",
+  "name": "Best Time to Buy and Sell Stock with Cooldown",
+  "description": null,
+  "exercise_type": "Procedural",
+  "exercise_asset": {
+    "FlashcardAsset": {
+      "front_path": "front.md",
+      "back_path": "back.md"
+    }
+  }
+}

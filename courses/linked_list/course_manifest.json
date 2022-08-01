@@ -1,0 +1,16 @@
+{
+  "id": "trane::leetcode::linked_list",
+  "name": "Linked List",
+  "dependencies": [],
+  "description": "Solve Leetcode problems related to the topic Linked List",
+  "authors": [
+    "The Trane Project"
+  ],
+  "metadata": {
+    "leetcode_topic": [
+      "Linked List"
+    ]
+  },
+  "course_material": null,
+  "course_instructions": null
+}

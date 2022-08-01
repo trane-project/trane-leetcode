@@ -1,0 +1,16 @@
+{
+  "id": "trane::leetcode::one_d_dynamic_programming",
+  "name": "1-D Dynamic Programming",
+  "dependencies": [],
+  "description": "Solve Leetcode problems related to the topic 1-D Dynamic Programming",
+  "authors": [
+    "The Trane Project"
+  ],
+  "metadata": {
+    "leetcode_topic": [
+      "1-D Dynamic Programming"
+    ]
+  },
+  "course_material": null,
+  "course_instructions": null
+}

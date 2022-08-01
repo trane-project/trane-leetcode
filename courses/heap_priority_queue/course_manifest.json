@@ -1,0 +1,16 @@
+{
+  "id": "trane::leetcode::heap_priority_queue",
+  "name": "Heap / Priority Queue",
+  "dependencies": [],
+  "description": "Solve Leetcode problems related to the topic Heap / Priority Queue",
+  "authors": [
+    "The Trane Project"
+  ],
+  "metadata": {
+    "leetcode_topic": [
+      "Heap / Priority Queue"
+    ]
+  },
+  "course_material": null,
+  "course_instructions": null
+}

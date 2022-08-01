@@ -1,0 +1,14 @@
+{
+  "id": "trane::leetcode::math_and_geometry::medium::rotate-image",
+  "lesson_id": "trane::leetcode::math_and_geometry::medium",
+  "course_id": "trane::leetcode::math_and_geometry",
+  "name": "Rotate Image",
+  "description": null,
+  "exercise_type": "Procedural",
+  "exercise_asset": {
+    "FlashcardAsset": {
+      "front_path": "front.md",
+      "back_path": "back.md"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "trane::leetcode::advanced_graphs",
+  "name": "Advanced Graphs",
+  "dependencies": [
+    "trane::leetcode::graphs"
+  ],
+  "description": "Solve Leetcode problems related to the topic Advanced Graphs",
+  "authors": [
+    "The Trane Project"
+  ],
+  "metadata": {
+    "leetcode_topic": [
+      "Advanced Graphs"
+    ]
+  },
+  "course_material": null,
+  "course_instructions": null
+}

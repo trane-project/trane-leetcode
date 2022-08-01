@@ -1,0 +1,12 @@
+{
+  "id": "trane::leetcode::bit_manipulation::medium",
+  "dependencies": [
+    "trane::leetcode::bit_manipulation::easy"
+  ],
+  "course_id": "trane::leetcode::bit_manipulation",
+  "name": "Bit Manipulation - medium",
+  "description": null,
+  "metadata": null,
+  "lesson_material": null,
+  "lesson_instructions": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": "trane::leetcode::intervals::hard::minimum-interval-to-include-each-query",
+  "lesson_id": "trane::leetcode::intervals::hard",
+  "course_id": "trane::leetcode::intervals",
+  "name": "Minimum Interval to Include Each Query",
+  "description": null,
+  "exercise_type": "Procedural",
+  "exercise_asset": {
+    "FlashcardAsset": {
+      "front_path": "front.md",
+      "back_path": "back.md"
+    }
+  }
+}

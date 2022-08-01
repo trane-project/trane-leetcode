@@ -1,0 +1,16 @@
+{
+  "id": "trane::leetcode::intervals",
+  "name": "Intervals",
+  "dependencies": [],
+  "description": "Solve Leetcode problems related to the topic Intervals",
+  "authors": [
+    "The Trane Project"
+  ],
+  "metadata": {
+    "leetcode_topic": [
+      "Intervals"
+    ]
+  },
+  "course_material": null,
+  "course_instructions": null
+}

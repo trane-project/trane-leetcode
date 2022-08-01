@@ -1,0 +1,14 @@
+{
+  "id": "trane::leetcode::linked_list::hard::merge-k-sorted-lists",
+  "lesson_id": "trane::leetcode::linked_list::hard",
+  "course_id": "trane::leetcode::linked_list",
+  "name": "Merge k Sorted Lists",
+  "description": null,
+  "exercise_type": "Procedural",
+  "exercise_asset": {
+    "FlashcardAsset": {
+      "front_path": "front.md",
+      "back_path": "back.md"
+    }
+  }
+}

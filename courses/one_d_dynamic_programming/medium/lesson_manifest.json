@@ -1,0 +1,12 @@
+{
+  "id": "trane::leetcode::one_d_dynamic_programming::medium",
+  "dependencies": [
+    "trane::leetcode::one_d_dynamic_programming::easy"
+  ],
+  "course_id": "trane::leetcode::one_d_dynamic_programming",
+  "name": "1-D Dynamic Programming - medium",
+  "description": null,
+  "metadata": null,
+  "lesson_material": null,
+  "lesson_instructions": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": "trane::leetcode::stack::medium::evaluate-reverse-polish-notation",
+  "lesson_id": "trane::leetcode::stack::medium",
+  "course_id": "trane::leetcode::stack",
+  "name": "Evaluate Reverse Polish Notation",
+  "description": null,
+  "exercise_type": "Procedural",
+  "exercise_asset": {
+    "FlashcardAsset": {
+      "front_path": "front.md",
+      "back_path": "back.md"
+    }
+  }
+}

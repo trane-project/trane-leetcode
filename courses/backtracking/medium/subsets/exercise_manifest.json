@@ -1,0 +1,14 @@
+{
+  "id": "trane::leetcode::backtracking::medium::subsets",
+  "lesson_id": "trane::leetcode::backtracking::medium",
+  "course_id": "trane::leetcode::backtracking",
+  "name": "Subsets",
+  "description": null,
+  "exercise_type": "Procedural",
+  "exercise_asset": {
+    "FlashcardAsset": {
+      "front_path": "front.md",
+      "back_path": "back.md"
+    }
+  }
+}
