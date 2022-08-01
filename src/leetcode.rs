@@ -4,7 +4,8 @@ use indoc::{formatdoc, indoc};
 use trane::{
     course_builder::{AssetBuilder, CourseBuilder, ExerciseBuilder, LessonBuilder},
     data::{
-        CourseManifest, ExerciseAsset, ExerciseManifestBuilder, ExerciseType, LessonManifestBuilder,
+        BasicAsset, CourseManifest, ExerciseAsset, ExerciseManifestBuilder, ExerciseType,
+        LessonManifestBuilder,
     },
 };
 use ustr::Ustr;
@@ -166,7 +167,9 @@ impl LeetcodeCourse {
                     self.topic
                 )),
                 dependencies: self.dependencies.clone(),
-                course_instructions: None,
+                course_instructions: Some(BasicAsset::MarkdownAsset {
+                    path: "instructions.md".to_string(),
+                }),
                 course_material: None,
                 metadata: Some(BTreeMap::from([(
                     "leetcode_topic".to_string(),
@@ -175,7 +178,20 @@ impl LeetcodeCourse {
             },
             lesson_manifest_template: LessonManifestBuilder::default().course_id(self.id).clone(),
             lesson_builders,
-            asset_builders: vec![],
+            asset_builders: vec![AssetBuilder {
+                file_name: "instructions.md".to_string(),
+                contents: indoc! {"
+                    Make progress in this course by solving the given Leetcode problems.
+                    
+                    What solving a problem means is open-ended. You could code the solution from
+                    scratch every time, or do it only the first time and just review the solution
+                    any subsequent time you are given the problem.
+
+                    You can find the video solutions to all the problems on
+                    [neetcode.io](neetcode.io).
+                "}
+                .to_string(),
+            }],
         }
     }
 }
