@@ -1,0 +1,14 @@
+{
+  "id": "trane::leetcode::arrays_hashing::medium::encode-and-decode-strings",
+  "lesson_id": "trane::leetcode::arrays_hashing::medium",
+  "course_id": "trane::leetcode::arrays_hashing",
+  "name": "Encode and Decode Strings",
+  "description": null,
+  "exercise_type": "Procedural",
+  "exercise_asset": {
+    "FlashcardAsset": {
+      "front_path": "front.md",
+      "back_path": "back.md"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "trane::leetcode::arrays_hashing",
+  "name": "Arrays & Hashing",
+  "dependencies": [],
+  "description": "Solve Leetcode problems related to the topic Arrays & Hashing",
+  "authors": [
+    "The Trane Project"
+  ],
+  "metadata": {
+    "leetcode_topic": [
+      "Arrays & Hashing"
+    ]
+  },
+  "course_material": null,
+  "course_instructions": null
+}

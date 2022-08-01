@@ -1,0 +1,14 @@
+{
+  "id": "trane::leetcode::arrays_hashing::easy::two-sum",
+  "lesson_id": "trane::leetcode::arrays_hashing::easy",
+  "course_id": "trane::leetcode::arrays_hashing",
+  "name": "Two Sum",
+  "description": null,
+  "exercise_type": "Procedural",
+  "exercise_asset": {
+    "FlashcardAsset": {
+      "front_path": "front.md",
+      "back_path": "back.md"
+    }
+  }
+}

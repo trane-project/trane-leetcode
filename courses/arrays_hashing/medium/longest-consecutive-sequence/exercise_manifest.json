@@ -1,0 +1,14 @@
+{
+  "id": "trane::leetcode::arrays_hashing::medium::longest-consecutive-sequence",
+  "lesson_id": "trane::leetcode::arrays_hashing::medium",
+  "course_id": "trane::leetcode::arrays_hashing",
+  "name": "Longest Consecutive Sequence",
+  "description": null,
+  "exercise_type": "Procedural",
+  "exercise_asset": {
+    "FlashcardAsset": {
+      "front_path": "front.md",
+      "back_path": "back.md"
+    }
+  }
+}
