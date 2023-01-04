@@ -18,5 +18,6 @@
     "MarkdownAsset": {
       "path": "instructions.md"
     }
-  }
+  },
+  "generator_config": null
 }

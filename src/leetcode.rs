@@ -175,6 +175,7 @@ impl LeetcodeCourse {
                     "leetcode_topic".to_string(),
                     vec![self.topic.clone()],
                 )])),
+                generator_config: None,
             },
             lesson_manifest_template: LessonManifestBuilder::default().course_id(self.id).clone(),
             lesson_builders,
